@@ -1,0 +1,66 @@
+.first{
+    width: 120px;
+    height: 120px;
+    margin-top: 100px;
+    border-width: 11px;
+    position: absolute;
+    z-index: -1;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 50%
+    
+}
+
+.second{
+    width: 120px;
+    height: 120px;
+    margin-top: 160px;
+    border-width: 11px;
+    margin-left: 80px;
+    position: absolute;
+    z-index: 1;
+    border-color: rgb(208, 255, 0);
+    border-style: solid;
+    border-radius: 50%
+}
+
+.third{
+    width: 120px;
+    height: 120px;
+    margin-top: 100px;
+    border-width: 11px;
+    margin-left: 160px;
+    position: absolute;
+    z-index: 2;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 50%
+    
+}
+
+.fourth{
+    width: 120px;
+    height: 120px;
+    margin-top: 160px;
+    border-width: 11px;
+    margin-left: 240px;
+    position: absolute;
+    z-index: 3;
+    border-color: rgb(47, 184, 115);
+    border-style: solid;
+    border-radius: 50%
+}
+
+.fifth{
+    width: 120px;
+    height: 120px;
+    margin-top: 100px;
+    border-width: 11px;
+    margin-left: 320px;
+    position: absolute;
+    z-index: 3;
+    border-color: rgb(255, 2, 2);
+    border-style: solid;
+    border-radius: 50%
+    
+}

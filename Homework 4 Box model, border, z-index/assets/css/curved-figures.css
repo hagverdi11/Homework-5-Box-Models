@@ -1,0 +1,53 @@
+.firsttext h1{
+color: red;
+}
+
+.firstyellow {
+    width: 380px;
+    height: 380px; 
+    background-color: yellow;
+    margin-left: 10px;
+    text-align: justify;
+    text-align: center;
+    
+    
+    
+    
+    border-top-left-radius: 19%;
+    border-bottom-right-radius: 19%;
+    border-top-right-radius: 19%;
+    border-bottom-left-radius: 19%;
+}
+
+.firstyellow p{
+    margin-bottom: 70px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+.secondtext h1{
+    color: red;
+    }
+    
+    .secondred {
+        width: 380px;
+        height: 380px; 
+        background-color: rgb(151, 42, 93);
+        margin-left: 10px;
+        text-align: justify;
+        text-align: center;
+        
+        
+        
+        
+        border-top-left-radius: 19%;
+        border-bottom-right-radius: 19%;
+        border-top-right-radius: 19%;
+        border-bottom-left-radius: 19%;
+    }
+    
+    .secondred p{
+        margin-bottom: 70px;
+        margin-right: 60px;
+        margin-left: 60px;
+    }
